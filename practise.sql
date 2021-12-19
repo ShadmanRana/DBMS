@@ -1,0 +1,1 @@
+SELECT * FROM student2 WHERE first_name = 'Shadman' AND last_name = 'Rana';

@@ -1,0 +1,1 @@
+ALTER TABLE student5 RENAME TO students;
